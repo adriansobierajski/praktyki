@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72530f9b-9f11-4f2e-bcf4-a38ad4bae44b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lekcja4/zd1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lekcja4/zd2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lekcja4/zd3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lekcja4/zd4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lekcja4/zd5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pętle/zd1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pętle/zd2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pętle/zd3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pętle/zd4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tablice/zd1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tablice/zd2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tablice/zd3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tablice/zd4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tablice/zd5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,12 +49,12 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.zd5">
-    <configuration name="zadanie_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lekcja4.zadanie_2" />
+    <configuration name="zd1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tablice.zd1" />
       <module name="praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lekcja4.*" />
+          <option name="PATTERN" value="tablice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,11 +63,11 @@
       </method>
     </configuration>
     <configuration name="zd2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lekcja4.zd2" />
+      <option name="MAIN_CLASS_NAME" value="tablice.zd2" />
       <module name="praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lekcja4.*" />
+          <option name="PATTERN" value="tablice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,11 +76,11 @@
       </method>
     </configuration>
     <configuration name="zd3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lekcja4.zd3" />
+      <option name="MAIN_CLASS_NAME" value="tablice.zd3" />
       <module name="praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lekcja4.*" />
+          <option name="PATTERN" value="tablice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,11 +89,11 @@
       </method>
     </configuration>
     <configuration name="zd4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lekcja4.zd4" />
+      <option name="MAIN_CLASS_NAME" value="tablice.zd4" />
       <module name="praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lekcja4.*" />
+          <option name="PATTERN" value="tablice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,11 +102,11 @@
       </method>
     </configuration>
     <configuration name="zd5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lekcja4.zd5" />
+      <option name="MAIN_CLASS_NAME" value="tablice.zd5" />
       <module name="praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lekcja4.*" />
+          <option name="PATTERN" value="tablice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,7 +120,7 @@
         <item itemvalue="Application.zd4" />
         <item itemvalue="Application.zd3" />
         <item itemvalue="Application.zd2" />
-        <item itemvalue="Application.zadanie_2" />
+        <item itemvalue="Application.zd1 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -141,5 +145,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
