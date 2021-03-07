@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72530f9b-9f11-4f2e-bcf4-a38ad4bae44b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pętle/zd1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pętle/zd2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pętle/zd3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pętle/zd4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tablice/zd1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tablice/zd2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tablice/zd3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tablice/zd4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tablice/zd5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pralka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tablicewielowymiarowe/zd1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tablicewielowymiarowe/zd2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/praktyki/tablice/zd5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/praktyki/tablice/zd5.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +43,26 @@
       <command value="?" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.zd5">
-    <configuration name="zd1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tablice.zd1" />
+  <component name="RunManager" selected="Application.Unnamed">
+    <configuration name="PralkoSuszarka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PralkoSuszarka" />
+      <module name="praktyki" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <module name="praktyki" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="piec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="obiekty.piec" />
       <module name="praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tablice.*" />
+          <option name="PATTERN" value="obiekty.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zd2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tablice.zd2" />
+    <configuration name="zd1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tablicewielowymiarowe.zd1" />
       <module name="praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tablice.*" />
+          <option name="PATTERN" value="tablicewielowymiarowe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,38 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zd3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tablice.zd3" />
+    <configuration name="zd2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tablicewielowymiarowe.zd2" />
       <module name="praktyki" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tablice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="zd4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tablice.zd4" />
-      <module name="praktyki" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tablice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="zd5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tablice.zd5" />
-      <module name="praktyki" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tablice.*" />
+          <option name="PATTERN" value="tablicewielowymiarowe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.zd5" />
-        <item itemvalue="Application.zd4" />
-        <item itemvalue="Application.zd3" />
-        <item itemvalue="Application.zd2" />
-        <item itemvalue="Application.zd1 (1)" />
+        <item itemvalue="Application.Unnamed" />
+        <item itemvalue="Application.PralkoSuszarka" />
+        <item itemvalue="Application.piec" />
+        <item itemvalue="Application.zd2 (1)" />
+        <item itemvalue="Application.zd1" />
       </list>
     </recent_temporary>
   </component>
