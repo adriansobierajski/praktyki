@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72530f9b-9f11-4f2e-bcf4-a38ad4bae44b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pakiety/zd1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pakiety/zd2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pakiety/zd3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pakiety/zd4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pakiety/zd5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/projekt/projekt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,14 +41,7 @@
       <command value="?" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.zd5">
-    <configuration name="PralkoSuszarka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PralkoSuszarka" />
-      <module name="praktyki" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.projekt">
     <configuration name="lista" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tablicewielowymiarowe.lista" />
       <module name="praktyki" />
@@ -72,6 +61,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="pakiety.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="projekt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="projekt.projekt" />
+      <module name="praktyki" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="projekt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.projekt" />
         <item itemvalue="Application.zd5" />
         <item itemvalue="Application.privateExample" />
         <item itemvalue="Application.lista" />
         <item itemvalue="Application.zd2" />
-        <item itemvalue="Application.PralkoSuszarka" />
       </list>
     </recent_temporary>
   </component>
